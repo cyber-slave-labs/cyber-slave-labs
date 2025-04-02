@@ -8,7 +8,7 @@
 Hello, I'm HyeongKyu Park.<br/>
 I graduated from HANEUL Academy in Feb 2018.<br/>
 I am an undergraduate student in computer science at POSTECH.<br/>
-I am currently working as a Data Engineer at Bagelcode.
+I am currently working as a Data Platform Engineer at LINE Plus.
 
 <br/><br/>
 
