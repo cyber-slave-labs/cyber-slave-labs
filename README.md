@@ -6,14 +6,10 @@
 <br/>
 <h3>HyeongKyu Park 🦙</h3><br/>
 Hello, I'm HyeongKyu Park.<br/>
-I graduated from HANEUL Academy in Feb 2018.<br/>
-I am an undergraduate student in computer science at POSTECH.<br/>
+I majored in computer science & engineering at POSTECH and graduated in 2023.<br/>
 I am currently working as a Data Platform Engineer at LINE Plus.
 
 <br/><br/>
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkHyeongKyu&count_bg=%23E98686&title_bg=%23C62D2D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
   
 ﹏﹏﹏﹏﹏﹏﹏
@@ -42,7 +38,7 @@ I am currently working as a Data Platform Engineer at LINE Plus.
 <br/>
 <h3 align="center"> 🧑🏻‍💻 Me 🧑🏻‍💻 </h3>
 <p align="center">
-  <a href="https://www.instagram.com/nolja_gyu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/nolja_gyu/"/></a>&nbsp
+  <a href="https://www.instagram.com/h.x_gyu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/nolja_gyu/"/></a>&nbsp
   <a href="habad123@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=habad123@naver.com"/></a>
 </p>
 <br>
