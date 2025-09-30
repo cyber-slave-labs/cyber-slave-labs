@@ -4,7 +4,7 @@
 <div align = "center">
 
 <br/>
-<h3>HyeongKyu Park 🦙</h3><br/>
+<h3>Cyber Slave Labs 🧑🏻‍💻</h3><br/>
 Hello, I'm HyeongKyu Park.<br/>
 I majored in computer science & engineering at POSTECH and graduated in 2023.<br/>
 I am currently working as a Data Platform Engineer at LINE Plus.
